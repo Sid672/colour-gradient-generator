@@ -1,2 +1,5 @@
-# colour-gradient-generator
-Based on basic HTML, CSS, JavaScript
+# Colour-Gradient-Generator
+
+A Simple project to generate colours.
+
+[Demo]()

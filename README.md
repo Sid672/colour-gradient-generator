@@ -1,5 +1,5 @@
 # Colour-Gradient-Generator
 
-A Simple project to generate colours.
+A simple project to generate colours.
 
-[Demo]()
+[Demo](https://sid672.github.io/colour-gradient-generator/)
